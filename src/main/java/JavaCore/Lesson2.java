@@ -9,9 +9,9 @@ public class Lesson2 {
         int arr[] = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         arrChange(arr);
         System.out.println(Arrays.toString(arr));
-  //      arrFillIn(arr2);
-  //      System.out.println(Arrays.toString(arr2));
-        method6();
+        arrFillIn(arr2);
+        System.out.println(Arrays.toString(arr2));
+        method6(a);
         System.out.println(Arrays.toString(a));
 
     }
